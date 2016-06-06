@@ -30,5 +30,5 @@ config.lambdaHeaders =
 config.authInstanceId = "5734df81e4b05a0b0e955409";
 config.objectSorageInstanceId = "5734df82e4b05a0b0e95540b";
 config.gameInstanceId = "5734df82e4b05a0b0e95540c";
-config.integratedMasterKey = "5734df81e4b09a527aa07443";
+config.integratedMasterKey = "6723df81e4b09a527aa07443";
 module.exports = config;
