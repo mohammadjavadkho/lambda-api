@@ -1,0 +1,14 @@
+node_modules/
+
+*.log
+out/
+*.iml
+.idea/
+.gitignore~
+/classes/artifacts
+
+.DS_Store
+
+usercode/
+test
+test/*

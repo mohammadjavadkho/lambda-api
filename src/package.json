@@ -1,0 +1,14 @@
+{
+    "name": "lambda-run-api",
+    "version": "0.0.1",
+    "author": "Pegah Tech Co.",
+    "dependencies": {
+        "express": "*",
+        "httpdispatcher": "*",
+        "body-parser": "*",
+        "randomstring": "*",
+        "request": "*",
+        "adm-zip": "*",
+        "mkdirp": "*"
+    }
+}

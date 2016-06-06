@@ -1,0 +1,10 @@
+{
+  "getHome":{
+    "handlerName":"index.handler",
+    "functionName":"getHome",
+    "functionVersion":"1463825131624",
+    "address":"/modules",
+    "timeLimitInMilliSeconds":10000,
+    "memoryLimit":128
+  }
+}

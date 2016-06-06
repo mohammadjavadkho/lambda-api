@@ -1,0 +1,17 @@
+{
+    "integratedInstances": [
+        {
+            "id": "5734df81e4b05a0b0e955409",
+            "type": "auth"
+        },
+        {
+            "id": "5734df82e4b05a0b0e95540b",
+            "type": "object-storage"
+        },
+        {
+            "id": "5734df82e4b05a0b0e95540c",
+            "type": "game"
+        }
+    ],
+    "integratedMasterKey": "5734df81e4b09a527aa07443"
+}
